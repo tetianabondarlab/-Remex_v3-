@@ -1,1 +1,10 @@
-streamlit
+os  
+warnings   
+numpy   
+tkinter   
+rasterio   
+geopandas  
+matplotlib   
+pyodbc   
+xarray   
+shapely
